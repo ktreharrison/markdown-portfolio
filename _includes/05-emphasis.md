@@ -1,3 +1,1 @@
-Multi-skilled **Technical**__ Product/Program Manager with a great sense of self-efficacy.
-Experienced in leading global complex programs across large senior stakeholder groups in an Agile Environment.
-An autodidact, in advanced **Python**, SQL, and **AWS**. Currently, working on internal products for Talent Acquisition and Talent Management
+Multi-skilled _**Technical**_ Product/Program Manager with a great sense of self-efficacy. Experienced in leading global complex programs across large senior stakeholder groups in an Agile Environment. An autodidact, in advanced **Python**, SQL, and **AWS**. Currently, working on internal products for Talent Acquisition and Talent Management
