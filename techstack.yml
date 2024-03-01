@@ -1,7 +1,8 @@
 repo_name: ktreharrison/markdown-portfolio
 report_id: c59f7e5e2396efd468520a379e0e72fe
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T13:04:27+00:00'
+timestamp: '2024-02-29T18:01:44+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/markdown-portfolio
   detection_source: Repo Metadata
